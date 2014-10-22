@@ -52,11 +52,12 @@ copyright = '2010, The Kivy Authors'
 # other places throughout the built documents.
 #
 os.environ['KIVY_DOC_INCLUDE'] = '1'
-import kivy
-print(kivy.__file__)
-
-version = kivy.__version__
-release = kivy.__version__
+#import kivy
+#print(kivy.__file__)
+#version = kivy.__version__
+#release = kivy.__version__
+version = "1.8"
+release = "1.8"
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
