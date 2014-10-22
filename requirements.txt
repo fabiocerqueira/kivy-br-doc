@@ -1,4 +1,4 @@
-Cython
+Cython==0.17.1
 kivy
 sphinx
 blockdiag
