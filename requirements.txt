@@ -1,5 +1,5 @@
 cython
-hg+http://bitbucket.org/pygame/pygame
+http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
 kivy
 sphinx
 blockdiag
