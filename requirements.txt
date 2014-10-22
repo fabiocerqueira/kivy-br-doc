@@ -1,4 +1,5 @@
-Cython==0.17.1
+cython
+hg+http://bitbucket.org/pygame/pygame
 kivy
 sphinx
 blockdiag
