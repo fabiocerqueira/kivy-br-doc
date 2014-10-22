@@ -1,0 +1,9 @@
+sphinx
+blockdiag
+sphinxcontrib-blockdiag
+seqdiag
+sphinxcontrib-seqdiag
+actdiag
+sphinxcontrib-actdiag
+nwdiag
+sphinxcontrib-nwdiag
