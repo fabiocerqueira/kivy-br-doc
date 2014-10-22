@@ -1,6 +1,6 @@
 cython
 hg+http://bitbucket.org/pygame/pygame
-git+https://github.com/kivy/kivy
+git+https://github.com/kivy/kivy.git
 sphinx
 blockdiag
 sphinxcontrib-blockdiag
