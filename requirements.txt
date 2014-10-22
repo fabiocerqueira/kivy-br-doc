@@ -1,4 +1,3 @@
-kivy
 sphinx
 blockdiag
 sphinxcontrib-blockdiag
